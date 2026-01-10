@@ -69,15 +69,18 @@ During this project I gained experience in:
 
 ## 🗂 Folder Structure
 
+```
 advice-generator-app/
-┣ public/
-┃ ┗ images/
-┣ src/
-┃ ┣ index.html
-┃ ┣ style.css
-┃ ┗ script.js
-┣ README.md
-┗ .gitignore
+ ┣ public/
+ ┃ ┗ images/
+ ┣ src/
+ ┃ ┣ index.html
+ ┃ ┣ style.css
+ ┃ ┗ script.js
+ ┣ README.md
+ ┗ .gitignore
+```
+
 
 ---
 
