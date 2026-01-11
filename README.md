@@ -8,7 +8,6 @@ The **Advice Generator App** is a simple yet interactive frontend project that f
 
 🔗 **Live URL:** https://musical-flan-c513ec.netlify.app/
 
----
 
 ## 🧩 Built With
 
