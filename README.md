@@ -75,3 +75,12 @@ GET https://api.adviceslip.com/advice
 ✨ Save previously shown advice  
 ✨ Theme toggle (dark/light mode)  
 ✨ React version for state encapsulation  
+
+## ⏱️ Time & Space Complexity
+
+| Operation | Time Complexity | Space Complexity |
+|----------|-----------------|------------------|
+| Fetch Advice (API Call) | O(1) | O(1) |
+| DOM Update | O(1) | O(1) |
+| Overall Application | **O(1)** | **O(1)** |
+
