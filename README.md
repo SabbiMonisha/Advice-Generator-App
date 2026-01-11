@@ -2,12 +2,9 @@
 
 The **Advice Generator App** is a simple yet interactive frontend project that fetches random pieces of advice using the Advice Slip API and displays them dynamically. The UI includes responsive design, hover effects, and real-time API updates triggered by user interaction.
 
-
-
 ## 🚀 Live Demo
 
 🔗 **Live URL:** https://musical-flan-c513ec.netlify.app/
-
 
 ## 🧩 Built With
 
@@ -15,8 +12,6 @@ The **Advice Generator App** is a simple yet interactive frontend project that f
 - **CSS3** — layout + responsive styling
 - **JavaScript (ES6)** — dynamic updates + API handling
 - **Advice Slip API** — data source for advice quotes
-
----
 
 ## ✨ Features
 
@@ -26,8 +21,6 @@ The **Advice Generator App** is a simple yet interactive frontend project that f
 ✔ Semantic and accessible HTML  
 ✔ Lightweight — no frameworks required  
 ✔ WCAG-friendly color palette based on design specs  
-
----
 
 ## 📚 What I Learned
 
@@ -39,8 +32,6 @@ During this project I gained experience in:
 - Designing for multiple screen sizes
 - Using Google Fonts & styling based on style guides
 - Version control with Git & GitHub
-
----
 
 ## 🧵 Approach
 
@@ -64,7 +55,6 @@ During this project I gained experience in:
 6. **Version Control & Deployment**  
    Managed using Git & GitHub and prepared for deployment using static hosting support.
 
----
 
 ## 🗂 Folder Structure
 
@@ -81,15 +71,12 @@ advice-generator-app/
 ```
 
 
----
-
 ## 🌐 API Reference
 
 Endpoint used:
 
 GET https://api.adviceslip.com/advice
 
----
 ## 📝 Possible Future Enhancements
 
 ✨ Animated transitions between advice  
