@@ -2,7 +2,7 @@
 
 The **Advice Generator App** is a simple yet interactive frontend project that fetches random pieces of advice using the Advice Slip API and displays them dynamically. The UI includes responsive design, hover effects, and real-time API updates triggered by user interaction.
 
----
+
 
 ## 🚀 Live Demo
 
