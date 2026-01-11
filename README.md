@@ -6,7 +6,7 @@ The **Advice Generator App** is a simple yet interactive frontend project that f
 
 ## 🚀 Live Demo
 
-🔗 **Live URL:** https://SabbiMonisha.github.io/Advice-Generator-App/
+🔗 **Live URL:** https://musical-flan-c513ec.netlify.app/
 
 ---
 
